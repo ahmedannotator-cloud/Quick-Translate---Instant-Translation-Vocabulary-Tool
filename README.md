@@ -1,24 +1,42 @@
 # Quick-Translate---Instant-Translation-Vocabulary-Tool
 
-Quick Translate is a lightweight and powerful browser extension designed to help users translate text and manage vocabulary efficiently. Perfect for researchers, annotators, and language learners.
+Quick Translate is a lightweight, easy-to-use browser extension that helps you translate text, listen to pronunciations, and save important words instantly. Perfect for your daily browsing and learning needs.
 
-## Features
-- **Instant Translation:** Select any text on the web and get an instant translation via MyMemory API.
-- **Vocabulary Manager:** Save your favorite words and phrases with one click.
-- **Export Data:** Export your entire saved vocabulary list to CSV/Excel format.
-- **Minimalist UI:** Built with an isolated architecture to ensure a smooth experience without interfering with the websites you visit.
+[English | العربية]
 
-## Technologies
-- JavaScript (Vanilla)
-- Chrome Extensions API (Manifest V3)
-- MyMemory Translation API
-- CSS/HTML
+---
 
-## Installation
+### Description
+**Quick Translate** is a lightweight, easy-to-use browser extension that helps you translate text, listen to pronunciations, and save important words instantly. Perfect for your daily browsing and learning needs.
+
+**Quick Translate** هي إضافة خفيفة وسهلة الاستخدام للمتصفح، تساعدك على ترجمة النصوص، الاستماع لنطق الكلمات، وحفظ المصطلحات المهمة بضغطة زر. الأداة المثالية لتسهيل تصفحك اليومي وتطوير لغتك.
+
+---
+
+### Features
+- **Instant Translation:** Translate any selected text instantly using the MyMemory API.
+- **Audio Pronunciation:** Hear the correct pronunciation of any word or sentence.
+- **Vocabulary Manager:** Build your own personal vocabulary list easily.
+- **Export to Excel:** Download your saved words with one click for further study.
+- **Lightweight & Fast:** Designed to be fast and non-intrusive.
+
+---
+
+### How to Install
 1. Download or clone this repository.
 2. Open your Chrome browser and go to `chrome://extensions/`.
 3. Enable **Developer mode** (top right switch).
 4. Click **Load unpacked** and select the folder containing this project.
 
-## Support & Contributions
+---
+
+### Technologies Used
+- JavaScript (Vanilla)
+- Chrome Extensions API (Manifest V3)
+- MyMemory Translation API
+- CSS/HTML
+
+---
+
+### Support
 Feel free to open an issue or submit a pull request if you have ideas for new features!
